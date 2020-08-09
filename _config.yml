@@ -28,7 +28,7 @@ twitter_username: chinmayT7
 github_username:  chinmayaswami
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
